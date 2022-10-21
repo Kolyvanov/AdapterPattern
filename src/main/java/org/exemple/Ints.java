@@ -1,3 +1,4 @@
+package org.exemple;
 
 public interface Ints {
     int sum(int arg0, int arg1);

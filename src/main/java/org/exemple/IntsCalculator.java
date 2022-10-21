@@ -1,3 +1,8 @@
+package org.exemple;
+
+import org.exemple.Calculator;
+import org.exemple.Ints;
+
 public class IntsCalculator implements Ints {
     protected final Calculator target;
 

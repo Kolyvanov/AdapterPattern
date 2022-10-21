@@ -1,3 +1,4 @@
+package org.exemple;
 
 public class Calculator {
     public Formula newFormula() {

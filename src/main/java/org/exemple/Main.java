@@ -1,3 +1,8 @@
+package org.exemple;
+
+import org.exemple.Ints;
+import org.exemple.IntsCalculator;
+
 public class Main {
     public static void main(String[] args) {
         Ints calc = new IntsCalculator();
